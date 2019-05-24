@@ -8,7 +8,7 @@ and will make every effort to acknowledge your contributions.
 
 To report a security issue,
 please send an email to
-`[security@flight.school](mailto:security@flight.school)`.
+[security@flight.school](mailto:security@flight.school).
 Your email will be acknowledged within one business day,
 and you'll receive a more detailed response to your email within 10 days
 indicating the next steps in handling your report.
@@ -32,7 +32,7 @@ In addition, please include the following information along with your report:
 
 If you believe that an existing (public) issue is security-related,
 please send an email to
-`[security@flight.school](mailto:security@flight.school)`.
+[security@flight.school](mailto:security@flight.school).
 The email should include the issue ID
 and a short description of why it should be handled
 according to this security policy.
